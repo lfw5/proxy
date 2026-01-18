@@ -1,0 +1,7 @@
+max_retries: 2
+print_invalid: true
+request_delay: 0
+request_timeout: 1
+test_url: http://httpbin.org/ip
+threads: 10
+update_title: true
